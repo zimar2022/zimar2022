@@ -1,4 +1,4 @@
-## Hi there!  I'm Mohamed Simar (he/him)
+## Hi there!  I'm Mohamed Simar (he)
 
 This is my humble corner of the GitHub universe, where I explore, learn, and build things in the exciting world of Information Technology.
 
