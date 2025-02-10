@@ -6,7 +6,7 @@ This is my humble corner of the GitHub universe, where I explore, learn, and bui
 
 * 🇱🇰 **From sunny Sri Lanka:** Born and raised on the beautiful island nation, I'm proud of my vibrant culture and heritage.
 *  **University of Moratuwa student:** Currently pursuing a Bachelor of Information Technology, eager to delve deeper into the fascinating world of tech.
-*  **22 years old and always learning:** I'm a passionate learner, constantly seeking new challenges and opportunities to hone my skills.
+*  **24 years old and always learning:** I'm a passionate learner, constantly seeking new challenges and opportunities to hone my skills.
 *  **Collaborative spirit:** I believe in the power of working together, always open to collaborating and contributing to meaningful projects.
 
 **On GitHub, you'll find:**
